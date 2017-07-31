@@ -11,7 +11,8 @@ description:  tunhuo.club 写一篇测试文章，熟悉这个系统的写作。
 
 ---
 
-* auto-gen TOC:{:toc}
+* auto-gen TOC:
+{:toc}
 
 ## 乐高价格心得 ##
 
