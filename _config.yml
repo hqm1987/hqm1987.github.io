@@ -6,6 +6,7 @@ future: true
 
 markdown: kramdown
 
+name_ch: 囤货俱乐部
 host:        0.0.0.0
 port:        4000
 baseurl:    
