@@ -1,20 +1,19 @@
 ---
 layout: default
-title: 写一篇测试文章
+title: 乐高价格心得
 author: tunhuo.club
 createdate: 2017/07/30 09:41:55
 changedate: 2017/07/30 09:41:55
-categories: 测试 乐高 前言
+categories: 乐高
 tags: 乐高 文章
 keywords: 乐高
 description:  tunhuo.club 写一篇测试文章，熟悉这个系统的写作。
 
 ---
 
-* auto-gen TOC:
-{:toc
+* auto-gen TOC:{:toc}
 
-## 写一篇测试文章 ##
+## 乐高价格心得 ##
 
 ** tunhuo.club ** 是我偶然申请的一个域名，翻译过来就是囤货俱乐部.
 
